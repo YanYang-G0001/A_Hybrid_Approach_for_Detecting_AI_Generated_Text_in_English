@@ -22,7 +22,7 @@ Our hybrid approach consistently outperforms individual baseline methods on both
 ---
 
 ## Repository Structure
-- `notebook_llm_A.ipynb` # Experiments using GPT-2 variants for repair score computation, output results can be found in [colab](https://colab.research.google.com/drive/1Wg68g8i1EYDjFdypclZwDnmGBa9lWGhm?hl=en#scrollTo=M8QpK4V4xS_r)
+- `notebook_llm_A.ipynb` # Experiments using GPT-2 variants for repair score computation, output results can be found in [colab](https://colab.research.google.com/drive/1Wg68g8i1EYDjFdypclZwDnmGBa9lWGhm?usp=sharing)
 - `notebook_llm_B.ipynb` # Experiments using Pythia variants for repair score computation, output results can be found in [colab](https://colab.research.google.com/drive/1GLI5tp-NCae6W3FXzJjHnSH7hc91cZ3I?hl=en#scrollTo=GZps0f_1yfNK)
 - ReadMe.md
 
