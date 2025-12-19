@@ -101,7 +101,6 @@ Our hybrid model integrates:
 ---
 
 ## Contributors
-Group 15
 - **Yanyang Gong** - [Github](https://github.com/YanYang-G0001)
 - **Yunfan Zhou** - [Github](https://github.com/saluttolove)
 ---
