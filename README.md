@@ -1,6 +1,6 @@
 # A Hybrid Approach for Detecting AI-Generated Text in English
 
-**COLING 2025 GenAI Content Detection Task 1 (Subtask A - English)**
+**Based on COLING 2025 GenAI Content Detection Task 1 (Subtask A - English)**
 
 ---
 
