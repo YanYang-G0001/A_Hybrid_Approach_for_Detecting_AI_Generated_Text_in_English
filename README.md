@@ -108,8 +108,8 @@ Our hybrid model integrates:
 
 This project builds upon the following works:
 
-- **[DNA-DetectLLM](https://github.com/Xiaoweizhu57/DNA-DetectLLM)**: Train-free detection method using perplexity-based repair scores
-- **[Advacheck AI Detector](https://github.com/Advacheck-OU/ai-detector-coling2025)**: DeBERTa-based classifier architecture (COLING 2025 Task 1 winner)
+- **[DNA-DetectLLM](https://github.com/Xiaoweizhu57/DNA-DetectLLM)**
+- **[Advacheck AI Detector](https://github.com/Advacheck-OU/ai-detector-coling2025)**
 - **COLING 2025 GenAI Content Detection Task**: Dataset and task framework
 
 ---
