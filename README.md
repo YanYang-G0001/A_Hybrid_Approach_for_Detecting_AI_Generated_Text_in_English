@@ -73,7 +73,7 @@ Detailed analysis including performance by source, domain, and generation model 
 
 ### Usage
 
-1. **Download the dataset** from [Google Drive](https://drive.google.com/drive/folders/1_Ohnu5P3MKi_jBCebDPi0Z0_4Mc9r3WF?dmr=1&ec=wgc-drive-hero-goto)
+1. **Download the dataset** from [Google Drive](https://drive.google.com/drive/folders/1_Ohnu5P3MKi_jBCebDPi0Z0_4Mc9r3WF?usp=sharing)
 
 2. **Open the notebooks** in Google Colab or Jupyter:
    - `notebook_llm_A.ipynb` for GPT-2-based experiments
@@ -116,6 +116,6 @@ This project builds upon the following works:
 
 ## License
 
-This project is for **academic use only**.
+This project is released for **academic and research purposes only**.
 
 ---
