@@ -41,7 +41,7 @@ We use subsets of the **COLING 2025 MGT Detection Dataset (English Subtask)** wi
 
 **Access the dataset:**
 - [Download from Google Drive](https://drive.google.com/drive/folders/1_Ohnu5P3MKi_jBCebDPi0Z0_4Mc9r3WF?dmr=1&ec=wgc-drive-hero-goto)
-- Includes preprocessed data, sampled datasets, and intermediate results
+- Includes sampled datasets, intermediate data files and checkpoints
 - Dataset paths and structure are documented in the notebooks
 
 ---
@@ -98,10 +98,13 @@ Our hybrid model integrates:
 3. **Feature Fusion**: Concatenation of DeBERTa pooled output (768-dim) and repair score (1-dim)
 4. **Fine-Tuning**: Efficient training with frozen backbone and trainable classification head
 
-For detailed methodology, refer to the project report.
-
 ---
 
+## Contributors
+Group 15
+- **Yanyang Gong** - [Github](https://github.com/YanYang-G0001)
+- **Yunfan Zhou** - [Github](https://github.com/saluttolove)
+---
 ## Acknowledgements
 
 This project builds upon the following works:
